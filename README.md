@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F711A6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Incoming+Intern+@+BNY+Mellon" alt="Typing SVG" />
+  </a>
+</p>
+
 # Hey there! I'm Suhasini 👋
 
 ### 👩‍💻 About Me:
@@ -11,10 +17,14 @@ I am a 3rd-year Computer Science student who loves building AI-powered applicati
 
 
 ### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SuhasiniSingh535&show_icons=true&theme=radical" alt="Suhasini's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniSingh535&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Suhasini's Stats](https://github-readme-stats.vercel.app/api?username=SuhasiniSingh535&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniSingh535&layout=compact&theme=radical)
+
+
+### 🐍 My Contributions Snake:
+![snake gif](https://github.com/SuhasiniSingh535/SuhasiniSingh535/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhasini-singh-bb49b0212)
