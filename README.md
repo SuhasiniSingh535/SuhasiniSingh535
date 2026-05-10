@@ -25,3 +25,4 @@ I am a 3rd-year Computer Science student who loves building AI-powered applicati
 * **[NCERTwise](https://github.com/SuhasiniSingh535/NCERTwise)** - An AI-driven educational search engine built using RAG pipelines and FAISS.
 * **[MAYUKH 2026](https://github.com/SuhasiniSingh535/MAYUKH2026)** - The official web platform for our university's technical festival.
 * **[Task-Zen](https://github.com/SuhasiniSingh535/Task-Zen)** - A responsive task management app built with Python and Flask.
+
