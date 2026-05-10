@@ -18,18 +18,24 @@ I am a 3rd-year Computer Science student who loves building AI-powered applicati
 
 ### 📊 GitHub Stats:
 
-![Suhasini's Stats](https://github-readme-stats.vercel.app/api?username=SuhasiniSingh535&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhasiniSingh535&show_icons=true&theme=radical" alt="Suhasini's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniSingh535&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniSingh535&layout=compact&theme=radical)
+### 🤝 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/suhasini-singh-bb49b0212" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:suhasinisingh015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ### 🐍 My Contributions Snake:
 
 ![snake gif](https://raw.githubusercontent.com/SuhasiniSingh535/SuhasiniSingh535/output/github-contribution-grid-snake.svg)
 
 
-### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhasini-singh-bb49b0212)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhasinisingh015@gmail.com)
 
 
 ### 🚀 Featured Projects:
