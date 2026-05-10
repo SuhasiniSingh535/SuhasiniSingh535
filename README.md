@@ -17,13 +17,14 @@ I am a 3rd-year Computer Science student who loves building AI-powered applicati
 
 
 ### 📊 GitHub Stats:
+
 ![Suhasini's Stats](https://github-readme-stats.vercel.app/api?username=SuhasiniSingh535&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniSingh535&layout=compact&theme=radical)
 
-
 ### 🐍 My Contributions Snake:
-![snake gif](https://github.com/SuhasiniSingh535/SuhasiniSingh535/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/SuhasiniSingh535/SuhasiniSingh535/output/github-contribution-grid-snake.svg)
 
 
 ### 🤝 Connect with me:
