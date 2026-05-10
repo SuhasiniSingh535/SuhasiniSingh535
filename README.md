@@ -15,3 +15,13 @@ I am a 3rd-year Computer Science student who loves building AI-powered applicati
 <img src="https://github-readme-stats.vercel.app/api?username=SuhasiniSingh535&show_icons=true&theme=radical" alt="Suhasini's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniSingh535&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhasini-singh-bb49b0212)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhasinisingh015@gmail.com)
+
+
+### 🚀 Featured Projects:
+* **[NCERTwise](https://github.com/SuhasiniSingh535/NCERTwise)** - An AI-driven educational search engine built using RAG pipelines and FAISS.
+* **[MAYUKH 2026](https://github.com/SuhasiniSingh535/MAYUKH2026)** - The official web platform for our university's technical festival.
+* **[Task-Zen](https://github.com/SuhasiniSingh535/Task-Zen)** - A responsive task management app built with Python and Flask.
