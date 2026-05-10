@@ -16,11 +16,6 @@ I am a 3rd-year Computer Science student who loves building AI-powered applicati
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
-### 📊 GitHub Stats:
-
-![Suhasini's Stats](https://github-readme-stats.vercel.app/api?username=SuhasiniSingh535&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniSingh535&layout=compact&theme=radical)
 
 ### 📈 Activity Graph:
 ![Suhasini's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuhasiniSingh535&theme=react-dark)
