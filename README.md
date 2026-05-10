@@ -18,11 +18,9 @@ I am a 3rd-year Computer Science student who loves building AI-powered applicati
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhasiniSingh535&show_icons=true&theme=radical" alt="Suhasini's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniSingh535&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Suhasini's Stats](https://github-readme-stats.vercel.app/api?username=SuhasiniSingh535&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniSingh535&layout=compact&theme=radical)
 
 ### 🤝 Connect with me:
 
