@@ -22,6 +22,9 @@ I am a 3rd-year Computer Science student who loves building AI-powered applicati
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniSingh535&layout=compact&theme=radical)
 
+### 📈 Activity Graph:
+![Suhasini's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuhasiniSingh535&theme=react-dark)
+
 ### 🤝 Connect with me:
 
 <p align="left">
